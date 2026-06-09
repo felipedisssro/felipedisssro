@@ -1,71 +1,47 @@
-# 👨‍💻 Olá, eu sou Felipe Dissero
+# Felipe Dissero 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=ADS+Student;Backend+Developer;Python+%7C+Java+%7C+C;Always+learning+new+things+🚀" />
-
----
-
-```python
-class Desenvolvedor:
-
-    def __init__(self):
-        self.nome = "Felipe Dissero"
-        self.curso = "ADS - IFSP"
-        self.semestre = "3º semestre"
-        self.linguagens = [
-            "Python",
-            "Java",
-            "C",
-            "JavaScript",
-            "SQL",
-            "HTML",
-            "CSS"
-        ]
-
-    def status(self):
-        return "Sempre aprendendo"
-
-eu = Desenvolvedor()
-```
-
- Estudante de Análise e Desenvolvimento de Sistemas  
- Focado em Backend e Banco de Dados  
- Apaixonado por tecnologia e programação  
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=ADS+Student;Backend+Developer;Machine+Learning;AI+Training;Python+%7C+Java+%7C+C" />
 
 ---
-
-# 👨‍💻 Hello, I'm Felipe Dissero
 
 ```python
 class Developer:
 
     def __init__(self):
         self.name = "Felipe Dissero"
-        self.course = "Systems Analysis and Development"
+        self.course = "ADS - IFSP"
+        self.semester = "3º semestre"
+
         self.languages = [
             "Python",
             "Java",
             "C",
             "JavaScript",
-            "SQL",
-            "HTML",
-            "CSS"
+            "SQL"
+        ]
+
+        self.interests = [
+            "Backend",
+            "Databases",
+            "Machine Learning",
+            "AI Training",
+            "Automation"
         ]
 
     def status(self):
-        return "Always learning "
+        return "Always learning 🚀"
 
 me = Developer()
 ```
 
- Systems Analysis and Development Student  
- Focused on Backend and Databases  
- Passionate about technology and programming  
+Análise e Desenvolvimento de Sistemas — IFSP  
+Focused on Backend, Databases and Artificial Intelligence.
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -75,10 +51,10 @@ me = Developer()
 
 ---
 
-## 🌐 Frontend
+## 🤖 Artificial Intelligence
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -97,33 +73,19 @@ me = Developer()
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedisssro&show_icons=true&theme=tokyonight"/>
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedisssro&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-#  Streak Stats
+## 🎯 Goals
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=felipedisssro&theme=tokyonight"/>
-</p>
-
----
-
-#  Contribution Snake
-
-![Snake animation](https://github.com/felipedisssro/felipedisssro/blob/output/github-contribution-grid-snake.svg)
-
----
-
-#  Current Goals
-
--  Improve Backend skills
-- 🗄️ Learn more about Databases
-- 🚀 Build real-world projects
-- 💻 Become a better developer every day
+- Improve Machine Learning skills
+- Learn more about AI Training
+- Build real-world projects
+- Become a better developer 🚀
